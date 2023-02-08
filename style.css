@@ -13,9 +13,11 @@
 /* text css above hero image*/
 .hero_title {
   font-size: 4.5rem;
+  animation: type 4s steps(60, end); 
 }
 .hero_desc {
   font-size: 2rem;
+  animation: type 4s steps(60, end); 
 }
 .hero-text {
   text-align: center;
