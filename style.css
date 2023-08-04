@@ -24,6 +24,11 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  
+  display: flex;
+  width: 870px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 /* spacing on all sections */
