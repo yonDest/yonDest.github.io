@@ -1,3 +1,3 @@
 # Portfolio website
 
-  check it out: [label] yonDest.github.io
+  check it out: https://yonDest.github.io
