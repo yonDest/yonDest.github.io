@@ -8,6 +8,7 @@
 /* text css above hero image*/
 .hero_title {
   font-size: 4.5rem;
+  color: white;
 }
 .hero_desc {
   font-size: 2rem;
