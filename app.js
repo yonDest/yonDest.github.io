@@ -4,21 +4,17 @@ var textElements = text.split("").map(function(c) {
   return $('<span id="' + c + '">' + c + '</span>');
 });
 
-// Navbar scroll effect
 document.addEventListener('DOMContentLoaded', function() {
-    const header = document.querySelector('.navbar');
+    const navbar = document.querySelector('.navbar.navbarScroll');
     
     window.onscroll = function() {
-        var top = window.scrollY;
-        if(top >= 100) {
-            header.classList.add('navbarDark');
+        if (window.scrollY >= 100) {
+            navbar.classList.add('navbar-scrolled');
         } else {
-            header.classList.remove('navbarDark');
+            navbar.classList.remove('navbar-scrolled');
         }
     }
 });
-
-// Text animation continuation (unchanged)
 var el = $('#letters');
 var delay = 50; // Tune this for different letter delays.
 textElements.forEach(function(e, i) {
