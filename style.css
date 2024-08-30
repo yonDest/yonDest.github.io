@@ -23,7 +23,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white; 
+  color: purple; 
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
