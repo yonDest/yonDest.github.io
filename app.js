@@ -1,4 +1,4 @@
-// Text animation code (unchanged)
+// Text animation code
 var text = 'Widget World';
 var textElements = text.split("").map(function(c) {
   return $('<span id="' + c + '">' + c + '</span>');
