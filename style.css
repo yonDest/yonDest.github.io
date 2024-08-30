@@ -6,9 +6,11 @@
   position:relative;
 }
 /* text css above hero image*/
+.navbar .nav-link {
+    color: white !important;
+}
 .hero_title {
   font-size: 4.5rem;
-  color: white;
 }
 .hero_desc {
   font-size: 2rem;
@@ -53,9 +55,6 @@
 .servicesText:hover {
   border: 1px solid #008000;
 }
-.nav-link {
-    color: white; !important;
-}
 
 /* social media icons styling */
 /* .social-icons {
@@ -65,6 +64,7 @@
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
   color: #008000;
 } */
+
 .fab {
   color: #000000;
 }
