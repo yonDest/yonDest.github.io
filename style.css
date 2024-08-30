@@ -26,9 +26,8 @@
   color: white; 
 }
 /* display background color black on navbar scroll */
-.navbar.navbarScroll.navbarDark {
+.navbarScroll.navbarDark {
     background-color: black;
-    transition: background-color 0.3s ease;
 }
 
 /* spacing on all sections */
