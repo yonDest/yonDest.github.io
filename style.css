@@ -53,6 +53,9 @@
 .servicesText:hover {
   border: 1px solid #008000;
 }
+.nav-link {
+    color: white;
+}
 
 /* social media icons styling */
 .social-icons {
