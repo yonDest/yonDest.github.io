@@ -25,9 +25,8 @@
   transform: translate(-50%, -50%);
   color: white; 
 }
-/* display background color black on navbar scroll */
-.navbarScroll.navbarDark {
-    background-color: black;
+.navbarDark {
+  background-color: black !important;
 }
 
 /* spacing on all sections */
