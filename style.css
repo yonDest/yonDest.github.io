@@ -1,3 +1,8 @@
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+  background-color: black;
+}
+
 /* hero background image */
 .bgimage {
   height:100vh;
@@ -18,12 +23,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: yellow; 
+  color: white; 
 }
-.navbarDark {
-  background-color: black !important;
-}
-
 /* spacing on all sections */
 /* #about, #services, #portfolio, #contact {
   margin-top: 4rem;
