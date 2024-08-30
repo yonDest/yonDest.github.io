@@ -9,12 +9,13 @@ document.addEventListener('DOMContentLoaded', function() {
     
     window.onscroll = function() {
         if (window.scrollY >= 100) {
-            navbar.classList.add('navbar-scrolled');
+            navbar.classList.add('navbarDark');
         } else {
-            navbar.classList.remove('navbar-scrolled');
+            navbar.classList.remove('navbarDark');
         }
     }
 });
+
 var el = $('#letters');
 var delay = 50; // Tune this for different letter delays.
 textElements.forEach(function(e, i) {
