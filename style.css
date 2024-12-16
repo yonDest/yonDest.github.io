@@ -55,7 +55,12 @@
 .servicesText:hover {
   border: 1px solid #008000;
 }
-
+#book-list .card {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 /* social media icons styling */
 /* .social-icons {
   font-size: 36px;
