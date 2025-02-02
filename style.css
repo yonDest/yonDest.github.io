@@ -9,6 +9,11 @@
 .navbar .nav-link {
     color: white !important;
 }
+/* turn the navbar to be transparent initially 
+.navbar:not(.navbarDark) {
+    background-color: transparent;
+} 
+*/
 .hero_title {
   font-size: 4.5rem;
 }
