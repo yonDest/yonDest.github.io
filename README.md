@@ -51,3 +51,24 @@ This is a single-page portfolio website built with HTML, CSS, Bootstrap 5, and v
 - **[Formula SAE Telemetry](https://github.com/yonDest/tire-temperature-system-with-infrared-sensors)** — Tire temperature sensing system for a racing team
 - **[RISC-V Processor](https://github.com/yonDest/Verilog-RISC-Single-Cycle-Processor)** — Single-cycle processor implemented in Verilog
 
+
+---
+
+
+# Favorite Books List Authors
+> [Fyodor Dostevsky](https://www.goodreads.com/author/list/3137322.Fyodor_Dostoevsky),
+> [Rick Riordan](https://www.goodreads.com/author/list/15872.Rick_Riordan),
+> [C.S. Lewis](https://www.goodreads.com/author/list/1069006.C_S_Lewis),
+> [J.R.R. Tolkien](https://www.goodreads.com/author/list/656983.J_R_R_Tolkien)
+
+> [Benjamin Graham](https://www.goodreads.com/author/list/755.Benjamin_Graham),
+> [Peter Lynch](https://www.goodreads.com/author/list/18237.Peter_Lynch),
+> [Philip A. Fisher](https://www.goodreads.com/author/list/14360.Philip_A_Fisher),
+> [Seth Klarman](https://www.goodreads.com/author/list/395523.Seth_A_Klarman)
+
+> [Yuri Mikhailovich Kobishchanov](https://www.goodreads.com/book/show/5098964-axum),
+> [Lars Brownworth](https://www.goodreads.com/author/list/2906082.Lars_Brownworth),
+> [Raymond Ibrahim](https://www.goodreads.com/author/list/702599.Raymond_Ibrahim),
+> 
+
+
