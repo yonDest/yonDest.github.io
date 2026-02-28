@@ -68,7 +68,10 @@ This is a single-page portfolio website built with HTML, CSS, Bootstrap 5, and v
 
 > [Yuri Mikhailovich Kobishchanov](https://www.goodreads.com/book/show/5098964-axum),
 > [Lars Brownworth](https://www.goodreads.com/author/list/2906082.Lars_Brownworth),
-> [Raymond Ibrahim](https://www.goodreads.com/author/list/702599.Raymond_Ibrahim),
+> [Raymond Ibrahim](https://www.goodreads.com/author/list/702599.Raymond_Ibrahim)
+
+>[Olga Savin, translator for "The Way of a Pilgrim"](https://www.barnesandnoble.com/w/the-way-of-a-pilgrim-olga-savin/1100419257)
+>[Benedicta Ward, translator for "The Sayings of the Desert Fathers"](https://www.christianbook.com/sayings-of-the-desert-fathers/9780879079598/pd/79592?msockid=1cfdd241087263082e86c73809486280)
 > 
 
 
