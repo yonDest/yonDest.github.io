@@ -87,10 +87,7 @@
 .navbarScroll.navbarDark {
   background-color: black;
 }
-.navbarDark .navbar-brand {
-  color: white !important;
-}
-.navbar-brand {
+.navbar .navbar-brand {
   color: white !important;
 }
 
