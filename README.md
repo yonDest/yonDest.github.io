@@ -70,8 +70,9 @@ This is a single-page portfolio website built with HTML, CSS, Bootstrap 5, and v
 > [Lars Brownworth](https://www.goodreads.com/author/list/2906082.Lars_Brownworth),
 > [Raymond Ibrahim](https://www.goodreads.com/author/list/702599.Raymond_Ibrahim)
 
->[Olga Savin, translator for "The Way of a Pilgrim"](https://www.barnesandnoble.com/w/the-way-of-a-pilgrim-olga-savin/1100419257)
->[Benedicta Ward, translator for "The Sayings of the Desert Fathers"](https://www.christianbook.com/sayings-of-the-desert-fathers/9780879079598/pd/79592?msockid=1cfdd241087263082e86c73809486280)
-> 
+>[Olga Savin, translator for "The Way of a Pilgrim"](https://www.barnesandnoble.com/w/the-way-of-a-pilgrim-olga-savin/1100419257),
+>[Benedicta Ward, translator for "The Sayings of the Desert Fathers"](https://www.christianbook.com/sayings-of-the-desert-fathers/9780879079598/pd/79592?msockid=1cfdd241087263082e86c73809486280),
+>[Saint Gregory of Nyssa](https://www.stmosesbookstore.org/product/the-life-of-moses/15025),
+>[Saint Augustine of Hippo](https://www.thriftbooks.com/w/confessiones-sancti-patris-nostri-augustini_augustine-of-hippo_frank-sheed/247391/#edition=14833331&idiq=46503167)
 
 
