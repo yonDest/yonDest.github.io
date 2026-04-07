@@ -1,6 +1,6 @@
 # Yoni Desta — Portfolio Website
 
-A personal portfolio site for Yonathan (Yoni) Desta, a computer systems engineer specializing in embedded systems, firmware development, and full-stack applications.
+Engineer Profile Site
 
 ---
 
