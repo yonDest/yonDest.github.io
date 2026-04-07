@@ -53,6 +53,7 @@
 }
 .card-title {
   text-align: center;
+  color: #212529;
 }
 .card:hover .servicesIcon {
   color: #008000;
@@ -71,7 +72,7 @@ section, footer, .container, .container-fluid {
 }
 
 a {
-  color: #00d4ff; /* Give your links a bright color like light blue to stand out */
+  color: #00d4ff; /* Give links a bright color like light blue to stand out */
 }
 #book-list .card {
     border: 2px solid #ddd;
@@ -83,7 +84,7 @@ a {
   color: rgb(0, 128, 0) !important;
 }
 .card-text {
-  color: rgb(0, 128, 0) !important;
+  color: #212529 !important;
 }
 /* social media icons styling */
  .social-icons {
