@@ -1,3 +1,16 @@
+body {
+  background-color: #000 !important; /* Forces background to black */
+  color: #fff !important;           /* Forces all text to white */
+}
+
+/* Also target major sections and links for visibility */
+section, footer, .container, .container-fluid {
+  background-color: transparent !important; /* Ensure children don't block the black bg */
+}
+
+a {
+  color: #00d4ff; /* Give your links a bright color like light blue to stand out */
+}
 /* background image */
 .bgimage {
   height:100vh;
