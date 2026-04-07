@@ -93,7 +93,7 @@ a {
 }
 /* footer styling */
 #footer {
-  background-color: #808080;
+  background-color: #808080 !important;
   text-align: center;
   padding: 20px 0 30px 0;
 }
