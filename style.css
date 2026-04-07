@@ -73,14 +73,17 @@ section, footer, .container, .container-fluid {
 a {
   color: #00d4ff; /* Give your links a bright color like light blue to stand out */
 }
-.card:hover .card-title {
-  color: rgb(0, 128, 0) !important;
-}
 #book-list .card {
     border: 2px solid #ddd;
     border-radius: 8px;
     max-width: 1200px;
     margin: 0 auto;
+}
+.card:hover .card-title {
+  color: rgb(0, 128, 0) !important;
+}
+.card-text {
+  color: rgb(0, 128, 0) !important;
 }
 /* social media icons styling */
  .social-icons {
