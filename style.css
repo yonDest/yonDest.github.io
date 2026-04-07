@@ -62,7 +62,7 @@
 }
 body {
   background-color: #000 !important; /* Forces background to black */
-  color: gray !important;           /* Forces all text to gray */
+  color: #6c757d !important;           /* Forces all text to gray */
 }
 
 /* Also target major sections and links for visibility */
